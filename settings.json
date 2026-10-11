@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Technoblade",
-    "password": "",
+    "password": "123456789",
     "type": "offline"
   },
   "server": {
-    "ip": "moeedxslayy.aternos.me",
-    "port": 35364,
+    "ip": "moeedxslayy2.aternos.me",
+    "port": 33153,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Follow to moeedxslayy!",
-        "I like to play Minecraft!"
+        "AmanZaidi is Noob Poti player",
+        "Follow to moeedxslayy! on Instagram",
+        "Team Death is PVP GOD",
+        "Team Noob is Bot"
       ]
     },
     "chat-log": true,
@@ -74,11 +75,11 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1558732632681091173/K0PtSCMzN43bdrEdvEsRc52xd8jy2a5hwkpjhmNqpf5I3EQJKbDJJskP-pTdVfBbQKDL",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {

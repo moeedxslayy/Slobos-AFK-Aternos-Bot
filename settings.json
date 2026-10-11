@@ -29,14 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 10,
       "messages": [
-        "AmanZaidi is Noob Poti player",
-        "Follow to moeedxslayy! on Instagram",
-        "Team Red is PVP GOD",
-        "Team Blue is Bot",
-        "Team Green is Mid",
-        "Technoblade never dies"
+        "/tpaccept moeedxslayy"
+        
       ]
     },
     "chat-log": true,

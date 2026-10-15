@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -32,8 +32,7 @@
       "repeat-delay": 10,
       "messages": [
         "/tpaccept moeedxslayy",
-        "/login chalol78",
-        "/register chalo178"
+        "/register 586586"
       ]
     },
     "chat-log": true,

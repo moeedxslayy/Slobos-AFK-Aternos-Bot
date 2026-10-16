@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "moeedxslayy2.aternos.me",
-    "port": 33153,
+    "ip": "muthalsmp.playwithbao.com",
+    "port": 33469,
     "version": "",
     "try-creative": false
   },
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 10,
+      "repeat-delay": 15,
       "messages": [
         "/tpaccept moeedxslayy"
       ]

@@ -29,9 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 15,
+      "repeat-delay": 120,
       "messages": [
-        "/tpaccept moeedxslayy"
+        "Amanzaidi is Bot player",
+        "moeedxslayy is PvP god",
+        "Technoblade never dies"
       ]
     },
     "chat-log": true,
